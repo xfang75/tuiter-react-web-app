@@ -1,118 +1,293 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-</head>
-<body style = "background-color: #282c34; margin-left: 16px">
-  <link href="index.css"
-        rel="stylesheet"/>
-
   <meta charset="UTF-8">
   <title>Explore</title>
 
+</head>
+<body>
 
-  <label for="text_input">
-    </label>
-    <input type="email"
-           placeholder="Search Tuiter"
-           style = "color:white; font-size: 18px"
-           class="rounded-corners-all-around margin-right-left padding-fat bg-color-gray box-size "
-           id="text_input"/>
+<div class="bg-ground-color">
 
-    <a href="explore-setting.html">
-    <img class = "image-position" src="gear-icon-34316.png"
-         width="50px"
-         height="50px" />
-    </a>
+  <link href = "../../vendors/bootstrap/css/bootstrap.min.css" rel="stylesheet"/>
+  <link href="../../vendors/fontawesome/css/all.css" rel="stylesheet"/>
+  <link href="index.css"  rel="stylesheet"/>
+
+  <div class="container-bg">
+  <div class ="container mt-3">
+    <div class="row">
+        <div class = "col-xxl-2 col-xl-2 col-lg-1 col-md-2 col-sm-2">
+        <ul class="list-group">
+          <li class="list-group-item">
+            <i class="fab fa-twitter" style="color:blue" width="150px"></i><br/>
+          </li>
+          <li class="list-group-item">
+            <div class="row">
+              <div class="col-3">
+                <i class="fa fa-home"></i>
+              </div>
+              <div class="col d-none d-xl-block">
+                <a href="https://en.wikipedia.org/wiki/Dune_(novel)" class=" col-xxl-2 col-xl-2 col-lg-2">
+                  Home</a>
+              </div>
+            </div>
+          </li>
+
+          <li class="list-group-item active">
+            <div class="row">
+              <div class="col-3">
+                <i class="fa fa-hashtag"></i>
+              </div>
+              <div class="col d-none d-xl-block">
+                <a href="https://en.wikipedia.org/wiki/Dune_(novel)" class=" list-group-item-action">
+                  Explore</a>
+              </div>
+            </div>
+          </li>
+
+          <li class="list-group-item">
+            <div class="row">
+              <div class="col-3">
+                <i class="fa fa-mail-bulk"></i>
+              </div>
+              <div class="col d-none d-xl-block">
+                <a href="https://en.wikipedia.org/wiki/Dune_(novel)" class=" list-group-item-action">
+                  Notifications</a>
+              </div>
+            </div>
+          </li>
+
+          <li class="list-group-item">
+            <div class="row">
+              <div class="col-3">
+                <i class="fa fa-phone"></i>
+              </div>
+              <div class="col d-none d-xl-block">
+                <a href="https://en.wikipedia.org/wiki/Dune_(novel)" class=" list-group-item-action">
+                  Messages</a>
+              </div>
+            </div>
+          </li>
+
+          <li class="list-group-item">
+            <div class="row">
+              <div class="col-3">
+                <i class="fa fa-bookmark"></i>
+              </div>
+              <div class="col d-none d-xl-block">
+                <a href="https://en.wikipedia.org/wiki/Dune_(novel)" class=" list-group-item-action">
+                  Bookmarks</a>
+              </div>
+            </div>
+          </li>
+
+          <li class="list-group-item">
+            <div class="row">
+              <div class="col-3">
+                <i class="fa fa-list-ol"></i>
+              </div>
+              <div class="col d-none d-xl-block">
+                <a href="https://en.wikipedia.org/wiki/Dune_(novel)" class=" list-group-item-action">
+                  Lists</a>
+              </div>
+            </div>
+          </li>
+
+          <li class="list-group-item">
+            <div class="row">
+              <div class="col-3">
+                <i class="fa fa-circle"></i>
+              </div>
+              <div class="col d-none d-xl-block">
+                <a href="https://en.wikipedia.org/wiki/Dune_(novel)" class=" list-group-item-action">
+                  Profile</a>
+              </div>
+            </div>
+          </li>
+
+          <li class="list-group-item">
+            <div class="row">
+              <div class="col-3">
+                <i class="fa fa-magic"></i>
+              </div>
+              <div class="col d-none d-xl-block">
+                <a href="https://en.wikipedia.org/wiki/Dune_(novel)" class=" list-group-item-action">
+                  More</a>
+              </div>
+            </div>
+          </li>
+
+        </ul>
+        <button class ="btn btn-primary w-100 mt-1 rounded-pill">Tuit</button>
+      </div>
+
+      <div class="col-xxl-6 col-xl-6 col-lg-7 col-md-9 col-sm-9">
+        <input class = "form-control" placeholder="Search Tuiter"/>
+        <ur class="nav nav-tabs mt-1">
+          <li class="nav-item" >
+            <a class="nav-link active" href="#">
+              For you
+            </a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="#">
+            Trending
+            </a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="#">
+              News
+            </a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="#">
+              Sports
+            </a>
+          </li>
+          <li class="nav-item d-none d-md-block">
+            <a class="nav-link" href="#">
+              Entertainment
+            </a>
+          </li>
+
+        </ur>
+        <div class="position-relative">
+          <img src="../../tuiter/explore/star.jpeg" width="100%" >
+          <h1 class="position-absolute bottom-0 left-0 text-white m-lg-2">SpaceX's Starship</h1>
+
+        </div>
+
+        <ul class="list-group">
+          <li class="list-group-item">
+            <div class="row">
+              <div class="col">
+                <div class="text-secondary">Web development</div>
+                <div class="fw-bolder" >React JS</div>
+                <div class="col-xl-8">React JS is not that Simple.React JS is not that Simple.React JS is not that Simple.React JS is not that Simple.React JS is not that Simple.</div>
+              </div>
+              <div class="col-4">
+                <img src="logo192.png" height=100px>
+              </div>
+            </div>
+          </li>
+          <li class="list-group-item">
+            <div class="row">
+              <div class="col">
+                <div class="text-secondary">Web development</div>
+                <div class="fw-bolder">React JS</div>
+                React JS is not that Simple</div>
+              <div class="col-4">
+                <img src="logo192.png" height=100px>
+              </div>
+            </div>
+          </li>
+          <li class="list-group-item">
+            <div class="row">
+              <div class="col">
+                <div class="text-secondary">Web development</div>
+                <div class="fw-bolder">React JS</div>
+                React JS is not that Simple</div>
+              <div class="col-4">
+                <img src="logo192.png" height=100px>
+              </div>
+            </div>
+          </li>
+          <li class="list-group-item">
+            <div class="row">
+              <div class="col">
+                <div class="text-secondary">Web development</div>
+                <div class="fw-bolder">React JS</div>
+                React JS is not that Simple</div>
+              <div class="col-4">
+                <img src="logo192.png" height=100px>
+              </div>
+            </div>
+          </li>
+        </ul>
+      </div>
+
+      <div class="col-xxl-4 col-xl-4 col-lg-4 d-none d-lg-block">
+        <ul class="list-group">
+          <li class="list-group-item fw-bolder">
+            Who to Follow
+          </li>
+          <li class="list-group-item">
+            <div class="row">
+              <div class="col-3">
+                <img src="java.png" width="50%">
+
+              </div>
+              <div class="col">
+                <div class="fw-bolder">JAVA</div>
+                <div class="text-secondary">@JAVA</div>
+              </div>
+              <div class="col-4">
+                <button class ="btn btn-primary w-30 rounded-pill">Follow</button>
+              </div>
+            </div>
+          </li>
+          <li class="list-group-item">
+            <div class="row">
+              <div class="col-3">
+                <i class="fab fa-apple fa-2x"></i>
 
 
-<div class = "flex-container">
-  <div class="flex-box flex-box-2">
-    <a href="foryou.html", style="color: rgb(29,161,242)">
-    For you </div>
-  <div class="flex-box flex-box-1">
-    <a href="trending.html" style="color: rgb(110, 118, 125)">
-      Trending
-  </div>
-  <div class="flex-box flex-box-1">
-    <a href="trending.html",  style="color: rgb(110, 118, 125)">
-      COVID-19
-  </div>
-  <div class="flex-box flex-box-1">
-    <a href="trending.html", style="color: rgb(110, 118, 125)">
-      News
-  </div>
-  <div class="flex-box flex-box-1">
-    <a href="trending.html", style="color: rgb(110, 118, 125)">
-      Sports
-  </div>
-  <div class="flex-box flex-box-1">
-    <a href="trending.html", style="color: rgb(110, 118, 125)">
-      Entertainment
-  </div>
+              </div>
+              <div class="col">
+                <div class="fw-bolder">Apple</div>
+                <div class="text-secondary">@Apple</div>
+              </div>
+              <div class="col-4">
+                <button class ="btn btn-primary w-30 rounded-pill">Follow</button>
+              </div>
+            </div>
+          </li>
+          <li class="list-group-item">
+            <div class="row">
+              <div class="col-3">
+                <i class="fab fa-facebook fa-2x" style="color:blue"></i><br/>
+              </div>
+              <div class="col">
+                <div class="fw-bolder">FaceBook</div>
+                <div class="text-secondary">@FaceBook</div>
+              </div>
+              <div class="col-4">
+                <button class ="btn btn-primary w-30 rounded-pill">Follow</button>
+              </div>
+            </div>
+          </li>
+          <li class="list-group-item">
+            <div class="row">
+              <div class="col-3">
+                <i class="fab fa-twitter" style="color:blue" width="100%"></i><br/>
+              </div>
+              <div class="col">
+                <div class="fw-bolder">Twitter</div>
+                <div class="text-secondary">@Twitter</div>
+              </div>
+              <div class="col-4">
+                <button class ="btn btn-primary w-30 rounded-pill">Follow</button>
+              </div>
+            </div>
+          </li>
 
+        </ul>
+
+      </div>
+    </div>
+
+
+  </div>
+  </div>
 </div>
 
 
-<p class = "wd-post-container">
-  <div class="wd-post-box wd-post-box-1">
-      Trending in Science
-    <br/>
-    <div class = "wd-special-font">Starship
-      </div>
-    <br/>55.5K Tweets
-  </div>
-  <div class="wd-post-box wd-post-box-1">
-    Sports Trending
-    <br/>
-    <div class = "wd-special-font">Joe Rogan
-    </div>
-    <br/>5,218 Tweets
-  </div>
-  <div class="wd-post-box wd-post-box-1">
-    <div class = "wd-special-font-1">
-    The New York Times
-  </div>
-    <br/>
-    <div class = "wd-special-font">This is a new post</div>
-    <img class = "image-position-1", src = "Twitter-logo.svg.png"
-         width="100px"
-         height="100px"
-         />
-  </div>
-  <div class="wd-post-box wd-post-box-1">
-    <div class = "wd-special-font-1">
-      The New York Times
-    </div>
-    <br/>
-    <div class = "wd-special-font">This is a new post</div>
-    <img class = "image-position-1", src = "Twitter-logo.svg.png"
-         width="100px"
-         height="100px"
-    />
-  </div>
-  <div class="wd-post-box wd-post-box-1">
-    COVID-19 LIVE
-    <br/>
-    <div class = "wd-special-font">Starship
-    </div>
-    <img class = "image-position-1", src = "Twitter-logo.svg.png"
-         width="100px"
-         height="100px"
-    />
-  </div>
-  <div class="wd-post-box wd-post-box-1">
-    New topic pf the post
-    <br/>
-    <div class = "wd-special-font">COVID-19: News and Updates
-    </div>
-    <img class = "image-position-1", src = "Twitter-logo.svg.png"
-         width="100px"
-         height="100px"
-    />
-  </div>
 
 
-</p>
+
+
+
+
 
 
 
