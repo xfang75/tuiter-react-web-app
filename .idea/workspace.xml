@@ -3,29 +3,13 @@
   <component name="ChangeListManager">
     <list default="true" id="9d08df10-8290-4d11-8e39-8f064ff4a386" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/labs/a5/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/labs/a5/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/labs/a5/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/labs/a5/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/tuiter/ExploreScreen/ExploreComponent.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/tuiter/ExploreScreen/ExploreComponent.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/tuiter/NavigationSidebar/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/tuiter/NavigationSidebar/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/tuiter/PostList/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/tuiter/PostList/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/tuiter/PostSummaryList/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/tuiter/PostSummaryList/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/tuiter/WhoToFollowList/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/tuiter/WhoToFollowList/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/tuiter/explore/ExploreComponent.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/tuiter/explore_no_longer_use/ExploreComponent.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/tuiter/explore/Twitter-logo.svg.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/tuiter/explore_no_longer_use/Twitter-logo.svg.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/tuiter/explore/explore-setting.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/tuiter/explore_no_longer_use/explore-setting.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/tuiter/explore/gear-icon-34316.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/tuiter/explore_no_longer_use/gear-icon-34316.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/tuiter/explore/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/public/tuiter/explore_no_longer_use/index.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/tuiter/explore/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/tuiter/explore_no_longer_use/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/tuiter/explore/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/tuiter/explore_no_longer_use/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/tuiter/explore/java.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/tuiter/explore_no_longer_use/java.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/tuiter/explore/logo192.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/tuiter/explore_no_longer_use/logo192.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/tuiter/explore/navigation.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/tuiter/explore_no_longer_use/navigation.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/tuiter/explore/star.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/public/tuiter/explore_no_longer_use/star.jpeg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/labs/a6/classes/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/labs/a6/classes/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/labs/a6/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/labs/a6/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/tuiter/explore/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/tuiter/explore/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/tuiter/home/post-item.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/tuiter/home/post-item.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/tuiter/navigation-sidebar/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/tuiter/navigation-sidebar/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/tuiter/post-summary-list/post-summary-item.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/tuiter/post-summary-list/post-summary-item.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/tuiter/who-to-follow-list/who-to-follow-list-item.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/tuiter/who-to-follow-list/who-to-follow-list-item.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -139,7 +123,7 @@
       <workItem from="1665967384028" duration="8591000" />
       <workItem from="1666025729960" duration="1265000" />
       <workItem from="1666338270066" duration="20460000" />
-      <workItem from="1666497960252" duration="7193000" />
+      <workItem from="1666497960252" duration="9178000" />
     </task>
     <servers />
   </component>

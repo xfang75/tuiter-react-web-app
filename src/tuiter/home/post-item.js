@@ -38,7 +38,9 @@ const GetPanel = ({img, ttl, ctnt, link}) => {
 				<div className="pt-2">
 					<img src= {img}
 							 className="rounded-4 border"
-							 width='100%'/>
+							 width='100%'
+							 alt="description"
+					/>
 				</div>
 		)
 	}
@@ -50,7 +52,8 @@ const GetPanel = ({img, ttl, ctnt, link}) => {
 								 className="border"
 								 style={{borderTopLeftRadius: "1rem",
 									 borderTopRightRadius: "1rem"}}
-								 width='100%'/>
+								 width='100%'
+								 alt="description of image3"/>
 					</div>
 
 					<div className=" border"

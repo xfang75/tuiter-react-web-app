@@ -56,7 +56,7 @@ const NavigationSidebar = () => {
   const active = paths[2];
   return (
       <div className="list-group">
-        <a className="list-group-item">Tuiter</a>
+        <a href="https://twitter.com/explore" className="list-group-item">Tuiter</a>
         <Link to="/tuiter/home" className={`list-group-item ${active === 'home'?'active':''}`}>
           Home
         </Link>
@@ -82,7 +82,7 @@ const NavigationSidebar = () => {
           Profile
         </Link>
 
-        <a className={`list-group-item ${active === 'more'?'active':''}`}>
+        <a href="https://twitter.com/explore" className={`list-group-item ${active === 'more'?'active':''}`}>
           More
         </a>
       </div>
