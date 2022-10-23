@@ -48,7 +48,7 @@ const ExploreComponent = () => {
 
         </ur>
         <div class="position-relative">
-          <img src="../../tuiter/explore/star.jpeg" width="100%" >
+          <img src="../explore_no_longer_use/star.jpeg" width="100%" >
           <h1 class="position-absolute bottom-0 left-0 text-white m-lg-2">SpaceX's Starship</h1>
 
         </div>
