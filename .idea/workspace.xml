@@ -3,16 +3,10 @@
   <component name="ChangeListManager">
     <list default="true" id="9d08df10-8290-4d11-8e39-8f064ff4a386" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/labs/a7/redux-examples/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/labs/a7/redux-examples/index.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/labs/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/labs/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/nav.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/nav.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/tuiter/home/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/tuiter/home/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/tuiter/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/tuiter/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/tuiter/navigation-sidebar/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/tuiter/navigation-sidebar/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/tuiter/post-summary-list/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/tuiter/post-summary-list/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/tuiter/who-to-follow-list/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/tuiter/who-to-follow-list/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/tuiter/who-to-follow-list/who.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/tuiter/data/who.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/tuiter/edit-profile/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/tuiter/edit-profile/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/tuiter/home/whats-happening.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/tuiter/home/whats-happening.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -128,7 +122,7 @@
       <workItem from="1666338270066" duration="20460000" />
       <workItem from="1666497960252" duration="9515000" />
       <workItem from="1667535329342" duration="33048000" />
-      <workItem from="1667724328807" duration="2571000" />
+      <workItem from="1667724328807" duration="3080000" />
     </task>
     <servers />
   </component>

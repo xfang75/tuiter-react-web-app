@@ -82,7 +82,9 @@ const EditProfileComponent = () => {
       lastName:profile.lastName,
       bio: profile.bio,
       location: profile.location,
-      website: profile.website}));
+      website: profile.website,
+      dateOfBirth:profile.dateOfBirth
+    }));
   }
 
   let navigate = useNavigate();
@@ -144,7 +146,7 @@ const EditProfileComponent = () => {
             <textarea
                 id='bio'
                 placeholder='Bio'
-                value={profile.bio}
+                value={bio}
                 onChange={handleBioChange}
                 className='form-control'
             />
@@ -155,7 +157,7 @@ const EditProfileComponent = () => {
             <input
                 id='location'
                 placeholder='Location'
-                value={profile.location}
+                value={location}
                 onChange={handleLocationChange}
                 className='form-control'
             />
@@ -166,7 +168,7 @@ const EditProfileComponent = () => {
             <input
                 id='website'
                 placeholder='Website'
-                value={profile.website}
+                value={website}
                 onChange={handleWebsiteChange}
                 className='form-control'
             />
@@ -178,7 +180,7 @@ const EditProfileComponent = () => {
                 type='date'
                 id='dateOfBirth'
                 placeholder='Date of birth'
-                value={profile.dateOfBirth}
+                value={dateOfBirth}
                 onChange={handleDOBChange}
                 className='form-control'
             />
