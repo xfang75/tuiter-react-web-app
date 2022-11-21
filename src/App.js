@@ -1,4 +1,4 @@
-
+import React from 'react';
 import Labs from "./labs";
 import HelloWorld from "./labs/a6/hello-world";
 import Tuiter from "./tuiter";

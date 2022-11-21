@@ -1,3 +1,5 @@
+
+
 import React from "react";
 import {Link} from "react-router-dom";
 import {useSelector} from "react-redux";
@@ -5,7 +7,6 @@ import {useSelector} from "react-redux";
 
 const ProfileComponent = () => {
   const profile = useSelector(state => state.profile);
-  console.log(profile);
   return (
       <div className="row">
         <div className="col-xxl-12 col-xl-12 col-lg-12 col-md-10 col-sm-12 border rounded">
@@ -53,9 +54,6 @@ const ProfileComponent = () => {
         </div>
 
       </div>
-
-
-
 
   );
 }

@@ -1,13 +1,14 @@
 import React from 'react';
 import {useDispatch } from 'react-redux';
+import TuitStats from "./tuit-stats";
 
-import {deleteTuit} from "./tuits-reducer";
+import {deleteTuitThunk} from "../../services/tuits-thunks";
 
 const TuitItem = ({tuit}) => {
   const dispatch = useDispatch();
 
   const deleteTuitHandler = (id) => {
-    dispatch(deleteTuit(id));
+    dispatch(deleteTuitThunk(id));
   }
 
   return (
@@ -31,6 +32,7 @@ const TuitItem = ({tuit}) => {
               <div>
                 {tuit.tuit}
               </div>
+              <TuitStats tuit={tuit} />
             </div>
 
           </div>
