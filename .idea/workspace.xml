@@ -2,29 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9d08df10-8290-4d11-8e39-8f064ff4a386" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/labs/a6/classes/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/labs/a6/classes/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/labs/a6/conditional-output/conditional-output-if-else.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/labs/a6/conditional-output/conditional-output-if-else.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/labs/a6/conditional-output/conditional-output-inline.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/labs/a6/conditional-output/conditional-output-inline.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/labs/a6/hello-world.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/labs/a6/hello-world.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/labs/a6/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/labs/a6/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/labs/a6/styles/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/labs/a6/styles/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/labs/a6/todo/todo-item.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/labs/a6/todo/todo-item.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/labs/a6/todo/todo-list.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/labs/a6/todo/todo-list.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/labs/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/labs/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/nav.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/nav.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/tuiter/home/whats-happening.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/tuiter/home/whats-happening.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/tuiter/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/tuiter/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/tuiter/post-summary-list/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/tuiter/post-summary-list/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/tuiter/profile/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/tuiter/profile/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/tuiter/tuits/TuitItem.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/tuiter/tuits/TuitItem.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/tuiter/tuits/tuits-list.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/tuiter/tuits/tuits-list.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/tuiter/tuits/tuits-reducer.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/tuiter/tuits/tuits-reducer.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/tuiter/tuits/tuits.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/tuiter/tuits/tuits.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/services/tuits-service.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/services/tuits-service.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -152,7 +131,7 @@
       <workItem from="1667724328807" duration="3684000" />
       <workItem from="1668935788951" duration="6137000" />
       <workItem from="1668984790989" duration="14413000" />
-      <workItem from="1669001442812" duration="1192000" />
+      <workItem from="1669001442812" duration="2342000" />
     </task>
     <servers />
   </component>
