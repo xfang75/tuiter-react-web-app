@@ -131,7 +131,14 @@
       <workItem from="1667724328807" duration="3684000" />
       <workItem from="1668935788951" duration="6137000" />
       <workItem from="1668984790989" duration="14413000" />
-      <workItem from="1669001442812" duration="2342000" />
+      <workItem from="1669001442812" duration="3054000" />
+      <workItem from="1669244534961" duration="711000" />
+      <workItem from="1669536362477" duration="2159000" />
+      <workItem from="1669597521199" duration="603000" />
+      <workItem from="1669698625521" duration="12000" />
+      <workItem from="1669699300557" duration="12867000" />
+      <workItem from="1669853923931" duration="1721000" />
+      <workItem from="1669865829091" duration="2131000" />
     </task>
     <servers />
   </component>
@@ -163,19 +170,14 @@
           <option name="timeStamp" value="2" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="javascript">
-          <url>file://$PROJECT_DIR$/src/tuiter/tuits/tuits-list.js</url>
-          <line>7</line>
-          <option name="timeStamp" value="3" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="javascript">
-          <url>file://$PROJECT_DIR$/src/tuiter/home/whats-happening.js</url>
-          <line>12</line>
-          <option name="timeStamp" value="4" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="javascript">
           <url>file://$PROJECT_DIR$/src/tuiter/tuits/TuitItem.js</url>
           <line>10</line>
           <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/src/services/tuits-service.js</url>
+          <line>11</line>
+          <option name="timeStamp" value="6" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
