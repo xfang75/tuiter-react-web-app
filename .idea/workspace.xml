@@ -138,7 +138,7 @@
       <workItem from="1669698625521" duration="12000" />
       <workItem from="1669699300557" duration="12867000" />
       <workItem from="1669853923931" duration="1721000" />
-      <workItem from="1669865829091" duration="2131000" />
+      <workItem from="1669865829091" duration="2747000" />
     </task>
     <servers />
   </component>
@@ -176,7 +176,7 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="javascript">
           <url>file://$PROJECT_DIR$/src/services/tuits-service.js</url>
-          <line>11</line>
+          <line>10</line>
           <option name="timeStamp" value="6" />
         </line-breakpoint>
       </breakpoints>
