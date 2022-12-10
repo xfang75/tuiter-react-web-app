@@ -35,7 +35,7 @@ const TuitStats = ({ tuit }) => {
                     likes: tuit.likes - 1
                   }))}
                   className='btn btn-sm'>
-                <i className='bi bi-heart-fill text-danger' style={{color: 'red'}}/>
+                <i className='bi bi-heart-fill text-danger me-2' style={{color: 'red'}}/>
                 {tuit.likes}
               </button>
           }
@@ -48,7 +48,7 @@ const TuitStats = ({ tuit }) => {
                     likes: tuit.likes + 1
                   }))}
                   className='btn btn-sm'>
-                <i className='bi bi-heart-fill'/>
+                <i className='bi bi-heart-fill me-2'/>
                 {tuit.likes}
               </button>
 
@@ -64,7 +64,7 @@ const TuitStats = ({ tuit }) => {
                     dislikes: tuit.dislikes - 1
                   }))}
                   className='btn btn-sm'>
-                <i className='bi bi-hand-thumbs-down'/>
+                <i className='bi bi-hand-thumbs-down-fill me-2'/>
                 {tuit.dislikes}
               </button>
           }
@@ -77,7 +77,7 @@ const TuitStats = ({ tuit }) => {
                     dislikes: typeof tuit.likes === 'undefined' ? 1: tuit.dislikes + 1
                   }))}
                   className='btn btn-sm'>
-                <i className='bi bi-hand-thumbs-down'/>
+                <i className='bi bi-hand-thumbs-down me-2' />
                 {tuit.dislikes}
               </button>
           }

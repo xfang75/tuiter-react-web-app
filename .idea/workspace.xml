@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9d08df10-8290-4d11-8e39-8f064ff4a386" name="Changes" comment="" />
+    <list default="true" id="9d08df10-8290-4d11-8e39-8f064ff4a386" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/services/tuits-service.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/services/tuits-service.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/tuiter/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/tuiter/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/tuiter/navigation-sidebar/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/tuiter/navigation-sidebar/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/tuiter/tuits/TuitItem.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/tuiter/tuits/TuitItem.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/tuiter/tuits/tuit-stats.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/tuiter/tuits/tuit-stats.js" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -135,7 +142,12 @@
       <workItem from="1669698625521" duration="12000" />
       <workItem from="1669699300557" duration="12867000" />
       <workItem from="1669853923931" duration="1721000" />
-      <workItem from="1669865829091" duration="3097000" />
+      <workItem from="1669865829091" duration="3945000" />
+      <workItem from="1669926686427" duration="766000" />
+      <workItem from="1670320382336" duration="3297000" />
+      <workItem from="1670479990172" duration="606000" />
+      <workItem from="1670484760377" duration="2637000" />
+      <workItem from="1670649824424" duration="10620000" />
     </task>
     <servers />
   </component>
@@ -165,11 +177,6 @@
           <url>file://$PROJECT_DIR$/public/labs/a5/index.js</url>
           <line>237</line>
           <option name="timeStamp" value="2" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="javascript">
-          <url>file://$PROJECT_DIR$/src/tuiter/tuits/TuitItem.js</url>
-          <line>10</line>
-          <option name="timeStamp" value="5" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="javascript">
           <url>file://$PROJECT_DIR$/src/services/tuits-service.js</url>

@@ -66,23 +66,20 @@ const NavigationSidebar = () => {
         <Link to="/tuiter/profile" className={`list-group-item ${active === 'profile'?'active':''}`}>
           Profile
         </Link>
-        <Link to="/" className={`list-group-item ${active === 'explore'?'active':''}`} >
+        <Link to="/" className={`list-group-item ${active === 'lab'?'active':''}`} >
           Labs
         </Link>
-        <Link to="/" className={`list-group-item ${active === 'explore'?'active':''}`} >
+        <Link to="/" className={`list-group-item ${active === 'notifications'?'active':''}`} >
           Notifications
         </Link>
-        <Link to="/" className={`list-group-item ${active === 'explore'?'active':''}`} >
+        <Link to="/" className={`list-group-item ${active === 'messages'?'active':''}`} >
           Messages
         </Link>
-        <Link to="/" className={`list-group-item ${active === 'explore'?'active':''}`} >
+        <Link to="/" className={`list-group-item ${active === 'bookmarks'?'active':''}`} >
           Bookmarks
         </Link>
-        <Link to="/" className={`list-group-item ${active === 'explore'?'active':''}`} >
+        <Link to="/" className={`list-group-item ${active === 'lists'?'active':''}`} >
           Lists
-        </Link>
-        <Link to="/" className={`list-group-item ${active === 'explore'?'active':''}`} >
-          Profile
         </Link>
 
         <a href="https://twitter.com/explore" className={`list-group-item ${active === 'more'?'active':''}`}>
